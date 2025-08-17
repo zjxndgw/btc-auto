@@ -1,0 +1,17 @@
+{
+  "name": "btc-auto",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.15.0",
+    "ethers": "^6.9.0",
+    "file-saver": "^2.0.5",
+    "solc": "^0.8.20"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build"
+  }
+}
